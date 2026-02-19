@@ -3,8 +3,9 @@ name: data-ink-maximization
 description: Systematically remove non-data elements from graphics to maximize information density. Based on Edward Tufte's data-ink ratio principle.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3770
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - data-ink-maximization
 - writing
